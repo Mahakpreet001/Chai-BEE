@@ -1,0 +1,23 @@
+{
+  "name": "bee-chai-aur-code",
+  "version": "1.0.0",
+  "description": "basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "node"
+  ],
+  "author": "Mahakpreet_Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahakpreet001/Chai-BEE/issues"
+  },
+  "homepage": "https://github.com/Mahakpreet001/Chai-BEE#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
